@@ -1,8 +1,7 @@
-package org.example.spring_boot_tut.entity;
+package org.example.app.entity;
 
 import lombok.Data;
 import lombok.NonNull;
-import lombok.RequiredArgsConstructor;
 
 @Data
 public class Car {

@@ -1,7 +1,7 @@
-package org.example.spring_boot_tut.mapper;
+package org.example.app.mapper;
 
-import org.example.spring_boot_tut.dto.CarDtoRq;
-import org.example.spring_boot_tut.entity.Car;
+import org.example.app.dto.CarDtoRq;
+import org.example.app.entity.Car;
 import org.springframework.stereotype.Component;
 
 @Component

@@ -1,0 +1,8 @@
+yuri:
+  age: 19
+  salary: 3000
+  dogs:
+    - Muhkar
+    - Murzik
+server:
+  port: 9000

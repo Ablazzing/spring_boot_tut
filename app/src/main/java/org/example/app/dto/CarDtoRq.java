@@ -1,9 +1,8 @@
-package org.example.spring_boot_tut.dto;
+package org.example.app.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
 
 @Data
 @NoArgsConstructor

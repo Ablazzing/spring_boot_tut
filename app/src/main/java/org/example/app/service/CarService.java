@@ -1,6 +1,6 @@
-package org.example.spring_boot_tut.service;
+package org.example.app.service;
 
-import org.example.spring_boot_tut.dto.CarDtoRq;
+import org.example.app.dto.CarDtoRq;
 import org.springframework.stereotype.Service;
 
 @Service
