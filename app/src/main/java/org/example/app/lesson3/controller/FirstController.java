@@ -1,11 +1,11 @@
-package org.example.app.controller;
+package org.example.app.lesson3.controller;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.example.app.dto.CarDtoRq;
-import org.example.app.entity.Car;
-import org.example.app.mapper.CarMapper;
-import org.example.app.service.CarService;
+import org.example.app.lesson3.dto.CarDtoRq;
+import org.example.app.lesson3.entity.Car;
+import org.example.app.lesson3.mapper.CarMapper;
+import org.example.app.lesson3.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.PropertySource;

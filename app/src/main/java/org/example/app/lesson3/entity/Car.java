@@ -1,4 +1,4 @@
-package org.example.app.entity;
+package org.example.app.lesson3.entity;
 
 import lombok.Data;
 import lombok.NonNull;

@@ -6,6 +6,7 @@
     <modules>
         <module>service</module>
         <module>app</module>
+        <module>homework2</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

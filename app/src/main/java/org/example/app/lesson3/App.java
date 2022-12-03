@@ -1,6 +1,5 @@
-package org.example.app;
+package org.example.app.lesson3;
 
-import org.example.app.controller.FirstController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
